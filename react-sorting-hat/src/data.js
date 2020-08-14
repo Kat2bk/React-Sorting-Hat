@@ -1,4 +1,4 @@
-export default questions = [
+const questions = [
     { 
         id: 1,
         question: "Late at night, walking alone down the street, you hear a peculiar cry that you believe to have  a magical source. Do you:", 
@@ -133,3 +133,5 @@ export default questions = [
         ]
     }, 
 ];
+
+export {questions}
